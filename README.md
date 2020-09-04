@@ -8,10 +8,15 @@
 
 ## environment
 
-* install
+* install golang
+
   [https://golang.org/doc/install](https://golang.org/doc/install)
-* IDE
-  [VSCodium](https://github.com/VSCodium/vscodium) vs [Go extension](https://marketplace.visualstudio.com/items?itemName=golang.go)
+
+* IDE for golang
+
+  * [VSCodium](https://github.com/VSCodium/vscodium) vs [Go extension](https://marketplace.visualstudio.com/items?itemName=golang.go)
+
+  * ~~[IntelliJ IDEA](https://www.jetbrains.com/idea/) vs [Go plugin](https://plugins.jetbrains.com/plugin/9568-go/)~~ -- unavailable
 
 ## learning
 
